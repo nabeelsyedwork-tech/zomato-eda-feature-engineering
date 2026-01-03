@@ -38,6 +38,16 @@ Instead of stopping at visualization, the project emphasizes:
 
 ---
 
+## Dataset Access
+
+The original Zomato dataset is too large to be included in this repository.
+
+To run the project locally:
+1. Download the Zomato dataset from a public source (e.g. Kaggle)
+2. Place the file in the project root as:
+
+---
+
 ## Data Cleaning
 
 - Removed duplicate records
